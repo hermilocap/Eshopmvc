@@ -1,0 +1,9 @@
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\bin\Debug\netstandard2.0\Store.Model.deps.json
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\bin\Debug\netstandard2.0\Store.Model.dll
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\bin\Debug\netstandard2.0\Store.Model.pdb
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.csprojAssemblyReference.cache
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.csproj.CoreCompileInputs.cache
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.AssemblyInfoInputs.cache
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.AssemblyInfo.cs
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.dll
+C:\Users\vm01970\source\repos\Eshopmvc\Demoeshop\Store.Model\obj\Debug\netstandard2.0\Store.Model.pdb
